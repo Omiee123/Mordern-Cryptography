@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 # Step 1 : n = P x Q
 # Step 2 : fi(n) = (P-1)X(Q-1)
 # Step 3 : e : e should lie between 1 to fn and gcd(e,fn) = 1
